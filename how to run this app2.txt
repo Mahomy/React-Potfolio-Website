@@ -1,0 +1,2 @@
+This is a react app 
+you run it with npm run dev
